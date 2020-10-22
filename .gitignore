@@ -1,5 +1,5 @@
 # Add config file
-config
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
